@@ -7,7 +7,4 @@ This repository is not affiliated with the LLVM Project in any way.
 ## Fork
 
 If you want to fork this repository and create your own mirror, you need to make sure the following requirements are met:
- - The repository has a self hosted runner available. (see repository settings > Actions > Add runner)
  - The `GITHUB_TOKEN` has read and write permissions to the repository. (see repository settings > Actions > Generatl > Workflow permissions)
-
-
